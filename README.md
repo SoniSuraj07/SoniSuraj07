@@ -2,8 +2,16 @@
 - 👀 I’m interested in women...
 - 🌱 I’m currently learning php...
 - 💞️ I’m looking to collaborate on nothing... 
-- 📫 How to reach me ... www.instagram.com/sahabsurajsoni 
-
+- 📫 How to reach me ... 
+- Student at Greater Noida Institute of Technology, GGSIPU-Campus, Greater Noida
+- Computer Science and Engineering, Bachelor of Technology
+- GitHub :- https://www.github.com/SoniSuraj07
+- LinkedIn :- https://www.linkedin.com/in/suraj-soni-6a2138109/
+- Sololearn :- https://www.sololearn.com/profile/12943727
+- Twitter :- https://www.twitter.com/shauryakhilardi
+- Facebook :- https://www.facebook.com/SurajSoni07
+- Instagram :- www.instagram.com/sahabsurajsoni 
+- Want to add me in BattleGrounds Mobile India, then search by Id :- 5910929892
 <!---
 SoniSuraj07/SoniSuraj07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
