@@ -5,7 +5,7 @@
 - 📫 How to reach me ... 
 - Student at Greater Noida Institute of Technology, GGSIPU-Campus, Greater Noida
 - Computer Science and Engineering, Bachelor of Technology
-- Contact:- tel:919560911729
+- Contact:- <a href="tel://919560911729">9560911729</a>
 - Email Id:- surajsoni.0704@gmail.com
 - GitHub :- https://www.github.com/SoniSuraj07
 - LinkedIn :- https://www.linkedin.com/in/sonisuraj07/
