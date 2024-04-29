@@ -1,10 +1,10 @@
 <img src="./power.gif">
-- 👋 Hi, I’m @SoniSuraj07 aka सूरज कीकाण
-- 👀 I’m interested in women...
-- 🌱 I’m currently learning php...
-- 💞️ I’m looking to collaborate on nothing... 
-- 📫 How to reach me ... 
-- Student at Greater Noida Institute of Technology, GGSIPU-Campus, Greater Noida
+- 👋 Hi, I’m @SoniSuraj07 aka सूरज कीकाण\n
+- 👀 I’m interested in women...\n
+- 🌱 I’m currently learning php...\n
+- 💞️ I’m looking to collaborate on nothing...\n 
+- 📫 How to reach me ... \n
+- Student at Greater Noida Institute of Technology, GGSIPU-Campus, Greater Noida\n
 - Computer Science and Engineering, Bachelor of Technology
 - Contact:- <a href="tel://919560911729">9560911729</a>
 - Email Id:- surajsoni.0704@gmail.com
