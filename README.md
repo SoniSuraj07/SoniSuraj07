@@ -6,7 +6,7 @@
 - 📫 How to reach me ... <br>
 - Studied at <a href="https://gnitipu.in">Greater Noida Institute of Technology</a>, GGSIPU-Campus, Greater Noida<br>
 - Computer Science and Engineering, Bachelor of Technology<br>
-- Contact:- <a href="https://wa.me/+919560911729">9560911729</a><br>
+- Contact:- <a href="https://wa.me/+919560911729?text=Hiii">9560911729</a><br>
 - Email Id:- <a href="mailto://surajsoni.0704@gmail.com">surajsoni.0704@gmail.com</a><br>
 - GitHub :- <a href="https://www.github.com/SoniSuraj07">https://www.github.com/SoniSuraj07</a><br>
 - LinkedIn :- <a href="https://www.linkedin.com/in/sonisuraj07/">https://www.linkedin.com/in/sonisuraj07/</a><br>
