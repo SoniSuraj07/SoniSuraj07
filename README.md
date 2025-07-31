@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning php...<br>
 - 💞️ I’m looking to collaborate on nothing...<br>
 - 📫 How to reach me ... <br>
-- Student at Greater Noida Institute of Technology, GGSIPU-Campus, Greater Noida<br>
+- Studied at <a href="https://gnitipu.in">Greater Noida Institute of Technology</a>, GGSIPU-Campus, Greater Noida<br>
 - Computer Science and Engineering, Bachelor of Technology<br>
 - Contact:- <a href="tel://919560911729">9560911729</a><br>
 - Email Id:- <a href="mailto://surajsoni.0704@gmail.com">surajsoni.0704@gmail.com</a><br>
